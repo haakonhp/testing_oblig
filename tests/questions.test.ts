@@ -47,7 +47,7 @@ describe('Questions Data', () => {
     it('answer options should be non-empty strings', () => {
         questions.forEach(question => {
             question.answers.forEach(answer => {
-                expect(answer).toHaveProperty('answere');
+                expect(answer).toHaveProperty('answer');
                 expect(typeof answer.answer).toBe('string');
                 expect(answer.answer.trim().length).toBeGreaterThan(0);
             });

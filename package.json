@@ -1,0 +1,31 @@
+{
+  "name": "testing_oblig",
+  "version": "1.0.0",
+  "description": "Oblig Webapp2023 Hiof",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haakonhp/testing_oblig.git"
+  },
+  "author": "Håkon Halland Hovland Pedersen",
+  "bugs": {
+    "url": "https://github.com/haakonhp/testing_oblig/issues"
+  },
+  "homepage": "https://github.com/haakonhp/testing_oblig#readme",
+  "dependencies": {
+    "ts-jest": "^27.0.5",
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.4.5",
+    "ts-node": "^10.9.1"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node"
+  }
+}

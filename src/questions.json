@@ -1,0 +1,88 @@
+{
+  "questions": [
+    {
+      "title": "Hva er mitt navn?",
+      "answers": [
+        {
+          "answer": "Lise"
+        },
+        {
+          "answer": "Lars"
+        },
+        {
+          "answer": "Håkon",
+          "correct": true
+        },
+        {
+          "answer": "Truls"
+        }
+      ],
+      "helper": {
+        "text": "Hva heter author'n av dette prosjektet."
+      }
+    },
+    {
+      "title": "Hva kjeledyr har jeg?",
+      "answers": [
+        {
+          "answer": "Katt"
+        },
+        {
+          "answer": "Fisk"
+        },
+        {
+          "answer": "Hund"
+        },
+        {
+          "answer": "Marsvin",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "På engelsk kalles kjeledyret guinea pig."
+      }
+    },
+    {
+      "title": "Hva var etternavnet på en kjent Amerikansk Pilot skutt ned over USSR under den kalde krigen?",
+      "answers": [
+        {
+          "answer": "Adolf"
+        },
+        {
+          "answer": "Powers",
+          "correct": true
+        },
+        {
+          "answer": "Obama"
+        },
+        {
+          "answer": "Dawes"
+        }
+      ],
+      "helper": {
+        "text": "Det Amerikanske ordet for kraft i flertallsform."
+      }
+    },
+    {
+      "title": "Hva var fornavnet til Norges første konge?",
+      "answers": [
+        {
+          "answer": "Håkon"
+        },
+        {
+          "answer": "Harald",
+          "correct": true
+        },
+        {
+          "answer": "Olav"
+        },
+        {
+          "answer": "Magnus"
+        }
+      ],
+      "helper": {
+        "text": "Begynner på samme bokstav som mitt navn."
+      }
+    }
+  ]
+}
